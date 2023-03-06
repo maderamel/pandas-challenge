@@ -1,6 +1,7 @@
 # pandas-challenge
 Module 4 challenge
-##PyCity Schools Analysis##
+
+## PyCity Schools Analysis ##
 
 Based on the analysis, three key conclusions can be made:
 1. Small and Medium sized schools far out-performed large schools.
